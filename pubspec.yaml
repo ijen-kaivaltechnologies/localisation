@@ -1,7 +1,7 @@
 name: custom_localization
 description: Flutter package to generate localization code from JSON file.
 publish_to: none
-version: 0.0.4
+version: 1.0.0
 homepage:
 
 environment:
@@ -16,7 +16,7 @@ dev_dependencies:
     sdk: flutter
 
   build_config: ^1.1.1 # <-- And this line
-  build_runner: ^2.3.3
+  build_runner: ^2.4.11
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
