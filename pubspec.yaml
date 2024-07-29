@@ -1,8 +1,8 @@
 name: custom_localization
 description: Flutter package to generate localization code from JSON file.
-publish_to: none
 version: 1.0.0
-homepage:
+
+publish_to: none
 
 environment:
   sdk: '>=2.19.6 <4.0.0'
