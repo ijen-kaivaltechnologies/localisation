@@ -15,8 +15,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  build_config: ^1.1.1 # <-- And this line
-  build_runner: ^2.4.11
+  build_config: ^1.2.0 # <-- And this line
+  build_runner: ^2.7.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
